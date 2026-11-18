@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_page"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Category Budget Limits"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Track category limits to prevent student overspending."
+        android:textSize="13sp"
+        android:textColor="@color/text_secondary"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnSetNewBudget"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="+ Set Category Budget Limit"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:backgroundTint="#4F46E5"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/txtNoBudgets"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="📊 No budget limits set yet.\nTap '+ Set Category Budget Limit' above to get started!"
+        android:textSize="14sp"
+        android:textColor="@color/text_secondary"
+        android:gravity="center"
+        android:lineSpacingExtra="4dp"
+        android:padding="32dp"
+        android:background="@drawable/bg_card_rounded"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/listViewBudgets"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp" />
+
+</LinearLayout>

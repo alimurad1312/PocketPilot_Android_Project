@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/bg_page"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Savings Goals Tracker"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/text_primary" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set student savings targets and track progress step-by-step."
+        android:textSize="13sp"
+        android:textColor="@color/text_secondary"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btnAddNewGoal"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="+ Add New Savings Goal"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:backgroundTint="#059669"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/txtNoGoals"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🎯 No savings goals yet.\nTap '+ Add New Savings Goal' above to create one!"
+        android:textSize="14sp"
+        android:textColor="@color/text_secondary"
+        android:gravity="center"
+        android:lineSpacingExtra="4dp"
+        android:padding="32dp"
+        android:background="@drawable/bg_card_rounded"
+        android:visibility="gone" />
+
+    <ListView
+        android:id="@+id/listViewGoals"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="10dp" />
+
+</LinearLayout>

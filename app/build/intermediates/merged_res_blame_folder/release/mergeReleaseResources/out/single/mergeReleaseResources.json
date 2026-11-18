@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_category_transport.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_category_transport.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_card_rounded.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_card_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.bbsutsd.pocketpilot.app-release-31:/layout_activity_main.xml.flat",
+        "source": "com.bbsutsd.pocketpilot.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_item_budget.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\item_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_button_primary.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_button_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_expense_badge.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_expense_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_button_secondary.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_button_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_activity_savings_goals.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\activity_savings_goals.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_dialog_set_budget.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\dialog_set_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_income_badge.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_income_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_activity_budgets.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\activity_budgets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\mipmap_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\mipmap\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_button_accent.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_button_accent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_stat_box.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_stat_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_item_transaction.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\item_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_card_elevated.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_card_elevated.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_category_food.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_category_food.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_balance_card.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_balance_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_neutral_badge.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_neutral_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_input_selector.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_input_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_item_savings_goal.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\item_savings_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_category_shopping.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_category_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_hero_card.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_hero_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_input_field.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_input_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_category_education.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_category_education.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_dialog_add_goal.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\dialog_add_goal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_button_danger.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_button_danger.xml"
+    },
+    {
+        "merged": "com.bbsutsd.pocketpilot.app-release-31:/layout_dialog_about_project.xml.flat",
+        "source": "com.bbsutsd.pocketpilot.app-main-32:/layout/dialog_about_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_activity_add_transaction.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\activity_add_transaction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\mipmap_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\mipmap\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\drawable_bg_category_other.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\drawable\\bg_category_other.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-release-31:\\layout_dialog_deposit_goal.xml.flat",
+        "source": "C:\\Users\\Ali Murad\\.gradle\\daemon\\9.6.0\\com.bbsutsd.pocketpilot.app-main-32:\\layout\\dialog_deposit_goal.xml"
+    }
+]

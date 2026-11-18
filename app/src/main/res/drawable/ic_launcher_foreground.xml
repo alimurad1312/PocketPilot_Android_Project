@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Back Money Bill (Top Left Angle) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,30 L66,18 L76,28 L44,40 Z" />
+    <path
+        android:fillColor="#0B132B"
+        android:pathData="M37,30.5 L65,20 L73,28 L45,38.5 Z" />
+
+    <!-- Front Money Bill (Top Center Angle) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M42,26 L74,16 L84,26 L52,36 Z" />
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M44,27.5 L73,18 L81,26 L52,35.5 Z" />
+
+    <!-- Main Wallet Outer Body (Neon Cyan Outline) -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M28,38 C28,33.6 31.6,30 36,30 L72,30 C76.4,30 80,33.6 80,38 L80,74 C80,78.4 76.4,82 72,82 L36,82 C31.6,82 28,78.4 28,74 Z" />
+
+    <!-- Main Wallet Inner Dark Body -->
+    <path
+        android:fillColor="#0B1C38"
+        android:pathData="M31,40 C31,37.2 33.2,35 36,35 L72,35 C74.8,35 77,37.2 77,40 L77,72 C77,74.8 74.8,77 72,77 L36,77 C33.2,77 31,74.8 31,72 Z" />
+
+    <!-- Right Side Clasp Flap (Cyan Outer) -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M56,48 L78,48 C81.3,48 84,50.7 84,54 L84,58 C84,61.3 81.3,64 78,64 L56,64 Z" />
+
+    <!-- Right Side Clasp Flap (Dark Inner) -->
+    <path
+        android:fillColor="#0B1C38"
+        android:pathData="M58,50 L77,50 C79.2,50 81,51.8 81,54 L81,58 C81,60.2 79.2,62 77,62 L58,62 Z" />
+
+    <!-- Clasp Circular Lock Button -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M71,56 C71,53.2 73.2,51 76,51 C78.8,51 81,53.2 81,56 C81,58.8 78.8,61 76,61 C73.2,61 71,58.8 71,56 Z" />
+
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M74,56 C74,54.9 74.9,54 76,54 C77.1,54 78,54.9 78,56 C78,57.1 77.1,58 76,58 C74.9,58 74,57.1 74,56 Z" />
+
+    <!-- Left Side Vertical Pills -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M35,42 C35,40.9 35.9,40 37,40 C38.1,40 39,40.9 39,42 L39,46 C39,47.1 38.1,48 37,48 C35.9,48 35,47.1 35,46 Z" />
+
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M35,52 C35,50.9 35.9,50 37,50 C38.1,50 39,50.9 39,52 L39,56 C39,57.1 38.1,58 37,58 C35.9,58 35,57.1 35,56 Z" />
+
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M35,62 C35,60.9 35.9,60 37,60 C38.1,60 39,60.9 39,62 L39,66 C39,67.1 38.1,68 37,68 C35.9,68 35,67.1 35,66 Z" />
+
+</vector>
